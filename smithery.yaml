@@ -1,0 +1,5 @@
+name: genpark-forward-inverse-kinematics-dh-parameters-skill
+description: Denavit-Hartenberg coordinate frame transforms, forward kinematics, and analytical inverse kinematics for robotic manipulators
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
