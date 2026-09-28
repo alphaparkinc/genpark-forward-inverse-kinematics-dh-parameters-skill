@@ -1,0 +1,19 @@
+{
+  "name": "genpark-forward-inverse-kinematics-dh-parameters-skill",
+  "version": "1.0.0",
+  "description": "Denavit-Hartenberg coordinate frame transforms, forward kinematics, and analytical inverse kinematics for robotic manipulators",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "robotics",
+    "kinematics",
+    "denavit-hartenberg",
+    "inverse-kinematics",
+    "forward-kinematics",
+    "robot-manipulator",
+    "python-standard-library",
+    "agent-skills",
+    "motion-planning",
+    "degrees-of-freedom"
+  ]
+}
